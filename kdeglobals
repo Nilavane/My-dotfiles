@@ -1,6 +1,7 @@
 [KDE]
 ShowDeleteCommand=false
-
+[General]
+TerminalApplication=kitty
 [PreviewSettings]
 EnableRemoteFolderThumbnail=false
 MaximumRemoteSize=0
